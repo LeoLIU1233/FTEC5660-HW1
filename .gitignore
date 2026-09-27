@@ -1,19 +1,9 @@
-# Secrets
 .env
-
-# Python cache
+.venv/
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-
-# Virtual environment
-.venv/
-venv/
-
-# Output
 results.csv
-
-# IDE
-.vscode/
+*.egg-info/
+dist/
+build/
 .DS_Store
