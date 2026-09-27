@@ -1,5 +1,19 @@
+# Secrets
 .env
-.venv/
+
+# Python cache
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+
+# Output
 results.csv
-solution.py
+
+# IDE
+.vscode/
+.DS_Store
